@@ -1,2 +1,2 @@
 # JSP_Books_Manager
-manager based on jsp+mysql
+A fucking database pratical exercise
